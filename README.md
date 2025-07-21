@@ -35,11 +35,8 @@ pip (Python package manager)
 Git
 
 Installation
-bash
-Copy
-Edit
 # Clone the repository
-git clone https://github.com/your-username/studybuddy.git
+git clonehttps://github.com/Shreyas-7083/StudyBuddy.git
 
 # Navigate into the project directory
 cd studybuddy
@@ -52,6 +49,7 @@ python manage.py migrate
 
 # Start the server
 python manage.py runserver
+
 👥 User Roles
 Teacher
 
@@ -70,9 +68,6 @@ Submit assignments
 View grades and feedback
 
 📂 Project Structure
-csharp
-Copy
-Edit
 studybuddy/
 ├── manage.py
 ├── studybuddy/         # Django project settings
